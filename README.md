@@ -25,3 +25,6 @@ Enter x2: 5
 Enter y2: 7
 
 Distance : 5.0
+
+## Author
+Yoona Gene R. Memije
